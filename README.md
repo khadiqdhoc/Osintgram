@@ -43,12 +43,6 @@ Osintgram offers an interactive shell to perform analysis on Instagram account o
 - wtagged         Get a list of user who tagged target
 ```
 
-You can find detailed commands usage [here](doc/COMMANDS.md).
-
-[**Latest version**](https://github.com/Datalux/Osintgram/releases/tag/1.3) |
-[Commands](doc/COMMANDS.md) |
-[CHANGELOG](doc/CHANGELOG.md)
-
 ## FAQ
 1. **Can I access the contents of a private profile?** No, you cannot get information on private profiles. You can only get information from a public profile or a profile you follow. The tools that claim to be successful are scams!
 2. **What is and how I can bypass the `challenge_required` error?** The `challenge_required` error means that Instagram notice a suspicious behavior on your profile, so needs to check if you are a real person or a bot. To avoid this you should follow the suggested link and complete the required operation (insert a code, confirm email, etc)
@@ -58,7 +52,7 @@ You can find detailed commands usage [here](doc/COMMANDS.md).
 
 1. Fork/Clone/Download this repo
 
-    `git clone https://github.com/Datalux/Osintgram.git`
+    `git clone https://github.com/khadiqdhoc/Osintgram.git`
 
 2. Navigate to the directory
 
@@ -165,17 +159,6 @@ To update Osintgram with the stable release just pull the latest commit using Gi
 
 1. Make sure you are in the master branch running: `git checkout master`
 2. Download the latest version: `git pull origin master`
-
-
-## Contributing 💡
-
-You can propose a feature request opening an issue or a pull request.
-
-Here is a list of Osintgram's contributors:
-
-<a href="https://github.com/Datalux/Osintgram/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Datalux/Osintgram" />
-</a>
 
 ## External library 🔗
 
